@@ -16,7 +16,7 @@ A Flutter-based application built for rural students to provide:
 - Netlify (Web hosting)
 
 ## Live Demo
-👉 YOUR_NETLIFY_LINK_HERE
+👉 https://fluffy-haupia-b1874d.netlify.app/
 
 ## GitHub Repo
 👉 THIS_REPO_LINK
