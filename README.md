@@ -1,16 +1,22 @@
-# rural_guidance_app
+# Rural Guidance App
 
-A new Flutter project.
+A Flutter-based application built for rural students to provide:
+- Career guidance
+- Scholarships & internships info
+- Social awareness articles
 
-## Getting Started
+## Features
+- Clean modern UI
+- Works on Android & Web
+- Offline-ready static content
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- Netlify (Web hosting)
 
-A few resources to get you started if this is your first Flutter project:
+## Live Demo
+👉 YOUR_NETLIFY_LINK_HERE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## GitHub Repo
+👉 THIS_REPO_LINK
