@@ -19,4 +19,4 @@ A Flutter-based application built for rural students to provide:
 👉 https://fluffy-haupia-b1874d.netlify.app/
 
 ## GitHub Repo
-👉 THIS_REPO_LINK
+👉 https://github.com/rehans7/rural-guidance-app
